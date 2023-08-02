@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-dotenv && react-scripts start",
-    "build": "react-dotenv && react-scripts build",
+    "build": "",
     "serve": "react-dotenv && serve build",
     "eject": "react-scripts eject"
   },
