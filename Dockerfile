@@ -11,4 +11,4 @@ COPY . .
 # where available (npm@5+)
 COPY package*.json ./
 
-RUN sudo npm install
+RUN echo "test"
